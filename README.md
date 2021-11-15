@@ -1,13 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-Here are some things about me:
 
-* 👨‍🎓 I’m a student at the UPV (Polythecnic University of Valencia) studying GTI (Bachelor's Degree in Interactive Technologies)
-* 🇬🇧 I have been studying english my whole life
-* ⏳ I would like to learn about AI and robotics in a near future
+👨‍🎓 I’m a student at the UPV (Polythecnic University of Valencia) studying [GTI (Bachelor's Degree in Interactive Technologies)](https://www.upv.es/titulaciones/GTI/index-en.html)
 
-### Skills developping
----------------
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]() 
-[![C++](https://img.shields.io/badge/c++-1575F9?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=101010)]()
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CarlosBotella&count_private=true&show_icons=true&include_all_commits=true)
+
+🇬🇧 I have been studying english my whole life
+
+
+⏳ I would like to learn about AI and robotics in a near future
+
+### Skills developing
+[![Xcode](https://img.shields.io/badge/Xcode-E8876D?style=for-the-badge&logo=xcode&logoColor=white&labelColor=0E1116)]() 
+[![C++](https://img.shields.io/badge/c++-E8876D?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=0E1116)]()
+
+### Skills developed
+[![Python](https://img.shields.io/badge/Python-E8876D?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
