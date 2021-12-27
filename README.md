@@ -15,7 +15,3 @@
 
 ### Skills developed
 [![Python](https://img.shields.io/badge/Python-E8876D?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
