@@ -11,8 +11,7 @@
 
 ### Skills developing
 
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0E1116)]() 
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woo&logoColor=white&labelColor=0E1116)]()
+
 
 ### Skills developed
 
@@ -22,3 +21,5 @@
 [![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0E1116)]()
 [![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0E1116)]() 
+[![WooCommerce](https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woo&logoColor=white&labelColor=0E1116)]()
