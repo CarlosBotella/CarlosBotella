@@ -15,7 +15,7 @@ Elegí esta carrera porque es innovadora y desafiante, siendo parte de la quinta
 ### Roles y Logros 🏆
 
 - *Delegado de Clase*: He sido delegado de mi clase durante tres años seguidos, lo que me ha enseñado a comunicarme eficazmente con estudiantes y profesores.
-- *Representante en Comisiones Académicas de Título*: Actualmente soy uno de los dos representantes de estudiantes en las Comisiones Académicas de título.
+- *Representante en Comisiones Académicas de Título*: Actualmente soy uno de los dos representantes de estudiantes en las Comisiones Académicas de título. [Link](https://www.upv.es/titulaciones/GTI/info/1208052normalc.html)
 
 ### Objetivos 🎯
 
@@ -24,3 +24,8 @@ En los próximos cinco años, me gustaría profundizar mucho más en el mundo de
 ### Interés actual 🧐
 
 Estoy aprendiendo a desarrollar chatbots para whatsapp. 🤖
+
+### Redes Sociales
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:cbotnav+work@gmail.com?subject=Te%20he%20encontrado%20por%20Github)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/carlosbotella)
