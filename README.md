@@ -15,7 +15,7 @@ Elegí esta carrera porque es innovadora y desafiante, siendo parte de la quinta
 ### Roles y Logros 🏆
 
 - *Delegado de Clase*: He sido delegado de mi clase durante tres años seguidos, lo que me ha enseñado a comunicarme eficazmente con estudiantes y profesores.
-- *Representante en Comisiones Académicas de Título*: Uno de los dos representantes de estudiantes en las Comisiones Académicas de título.
+- *Representante en Comisiones Académicas de Título*: Actualmente soy uno de los dos representantes de estudiantes en las Comisiones Académicas de título.
 
 ### Objetivos 🎯
 
