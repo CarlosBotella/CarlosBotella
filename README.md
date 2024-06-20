@@ -10,7 +10,7 @@ Elegí esta carrera porque es innovadora y desafiante, siendo parte de la quinta
 
 - *Proyecto de Robótica*: Programamos un robot (Turtlebot3) con ROS2 para detectar cervezas y, en un futuro, poder entregarlas al cliente mediante un brazo robótico. Utilizamos lenguajes y herramientas como ROS2, Python, PHP, JS, HTML, CSS y SQL. [Acceso al repositorio](https://github.com/CarlosBotella/Robokin)
   
-- *SafeDom*: Un proyecto de IoT y domótica desarrollado durante el segundo año de carrera. Creamos una aplicación Android para asistir a personas mayores, conectada a una red de médicos y varios sensores en el hogar para monitorear la seguridad y el bienestar del usuario. [Acceso al repositorio] (https://github.com/CarlosBotella/SafeDom)
+- *SafeDom*: Un proyecto de IoT y domótica desarrollado durante el segundo año de carrera. Creamos una aplicación Android para asistir a personas mayores, conectada a una red de médicos y varios sensores en el hogar para monitorear la seguridad y el bienestar del usuario. [Acceso al repositorio](https://github.com/CarlosBotella/SafeDom)
 
 ### Roles y Logros 🏆
 
