@@ -1,25 +1,26 @@
-# Hi there 👋
+### Estudiante de Tecnologías Interactivas en la UPV (Universidad Politécnica de Valencia)
 
+¡Hola! Soy Carlos Botella, estudiante de Tecnologías Interactivas en la Universidad Politécnica de Valencia. Os cuento un poco sobre mí.
 
-👨‍🎓 I’m a student at the UPV (Polythecnic University of Valencia) studying [GTI (Bachelor's Degree in Interactive Technologies)](https://www.upv.es/titulaciones/GTI/index-en.html)
+### ¿Por qué Tecnologías Interactivas?
 
+Elegí esta carrera porque es innovadora y desafiante, siendo parte de la quinta generación. Me apasiona la programación de robots, inteligencia artificial y más. Mi proyecto favorito hasta ahora ha sido el de robótica, algo que he querido hacer desde pequeño y a lo que me gustaría dedicarme en el futuro.
 
-🇬🇧 I have been studying english my whole life
+### Proyectos Destacados ⭐
 
+- *Proyecto de Robótica*: Programamos un robot (Turtlebot3) con ROS2 para detectar cervezas y, en un futuro, poder entregarlas al cliente mediante un brazo robótico. Utilizamos lenguajes y herramientas como ROS2, Python, PHP, JS, HTML, CSS y SQL. [Acceso al repositorio](https://github.com/CarlosBotella/Robokin)
+  
+- *SafeDom*: Un proyecto de IoT y domótica desarrollado durante el segundo año de carrera. Creamos una aplicación Android para asistir a personas mayores, conectada a una red de médicos y varios sensores en el hogar para monitorear la seguridad y el bienestar del usuario. [Acceso al repositorio] (https://github.com/CarlosBotella/SafeDom)
 
-⏳ I would like to learn about AI and robotics in a near future
+### Roles y Logros 🏆
 
-### Skills developing
+- *Delegado de Clase*: He sido delegado de mi clase durante tres años seguidos, lo que me ha enseñado a comunicarme eficazmente con estudiantes y profesores.
+- *Representante en Comisiones Académicas de Título*: Uno de los dos representantes de estudiantes en las Comisiones Académicas de título.
 
+### Objetivos 🎯
 
+En los próximos cinco años, me gustaría profundizar mucho más en el mundo de la programación, especialmente en Python, ya que me apasiona y siempre hay nuevas formas de mejorar. 
 
-### Skills developed
+### Interés actual 🧐
 
-[![HTML](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=0E1116)]() 
-[![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=Cplusplus&logoColor=white&labelColor=0E1116)]()
-[![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0E1116)]()
-[![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0E1116)]() 
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woo&logoColor=white&labelColor=0E1116)]()
+Estoy aprendiendo a desarrollar chatbots para whatsapp. 🤖
