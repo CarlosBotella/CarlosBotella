@@ -1,6 +1,6 @@
 ### Estudiante de Tecnologías Interactivas en la UPV (Universidad Politécnica de Valencia)
 
-¡Hola! Soy Carlos Botella, estudiante de Tecnologías Interactivas en la Universidad Politécnica de Valencia. Os cuento un poco sobre mí.
+¡Hola! Soy Carlos Botella, exestudiante de Tecnologías Interactivas en la Universidad Politécnica de Valencia. Os cuento un poco sobre mí.
 
 ### ¿Por qué Tecnologías Interactivas?
 
@@ -15,15 +15,7 @@ Elegí esta carrera porque es innovadora y desafiante, siendo parte de la quinta
 ### Roles y Logros 🏆
 
 - *Delegado de Clase*: He sido delegado de mi clase durante tres años seguidos, lo que me ha enseñado a comunicarme eficazmente con estudiantes y profesores.
-- *Representante en Comisiones Académicas de Título*: Actualmente soy uno de los dos representantes de estudiantes en las Comisiones Académicas de título. [Link](https://www.upv.es/titulaciones/GTI/info/1208052normalc.html)
-
-### Objetivos 🎯
-
-En los próximos cinco años, me gustaría profundizar mucho más en el mundo de la programación, especialmente en Python, ya que me apasiona y siempre hay nuevas formas de mejorar. 
-
-### Interés actual 🧐
-
-Estoy aprendiendo a desarrollar chatbots para whatsapp. 🤖
+- *Representante en Comisiones Académicas de Título*: Actualmente soy uno de los dos representantes de estudiantes en las Comisiones Académicas de título.
 
 ### Redes Sociales
 
