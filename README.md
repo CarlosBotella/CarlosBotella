@@ -1,4 +1,4 @@
-### Estudiante de Tecnologías Interactivas en la UPV (Universidad Politécnica de Valencia)
+### Una pequeña introducción sobre mí
 
 ¡Hola! Soy Carlos Botella, exestudiante de Tecnologías Interactivas en la Universidad Politécnica de Valencia. Os cuento un poco sobre mí.
 
